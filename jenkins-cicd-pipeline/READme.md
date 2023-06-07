@@ -17,7 +17,7 @@ CI pipeline was build using the using following tools on an EC2 instance:
 CD pipeline was build using the following Setup:
 	Kubernetes cluster on Gcloud
 	Sonarqube 
-	Kyverno
+	Kyverno 
 
 ---
 ## Source Code:
